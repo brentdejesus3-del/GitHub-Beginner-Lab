@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Student Profile - Juan Dela Cruz");
+﻿Console.WriteLine("Student Profile - GitHub Beginner Lab");
