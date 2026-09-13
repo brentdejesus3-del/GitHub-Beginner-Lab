@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Student Profile - GitHub Beginner Lab");
+﻿Console.WriteLine("Update student profile output");
