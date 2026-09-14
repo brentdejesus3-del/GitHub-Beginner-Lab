@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Student Profile - GitHub Beginner Lab");
+﻿Console.WriteLine("Contact Number: 09171234567");
